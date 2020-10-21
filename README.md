@@ -6,6 +6,6 @@ Dataset: Human Activity Recognition Using Smartphones
 
 Files:
 
-	CodeBook.md		describes the variables, the data, and any transformations or work that I performed to clean up the data
+	CodeBook.md	describes the variables, the data, and any transformations or work that I performed to clean up the data
 	run_analysis.R 	obtains the data for the project and then performs the 5 steps requiered in the instructions.
 	FinalData.txt 	the final data exported into a txt file
