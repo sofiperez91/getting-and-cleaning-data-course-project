@@ -52,4 +52,4 @@ final_data <-data_2 %>%
   group_by(Subject_id, Activity) %>% summarise_all(mean)
 
 names(final_data)[-(1:2)]<-gsub("^","Mean\\.",names(final_data)[-(1:2)])
-write.table(final_data, "FinalData.txt")
+write.table(final_data, "FinalData.txt", row.name=FALSE)
