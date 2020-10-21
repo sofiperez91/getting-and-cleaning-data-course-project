@@ -1,6 +1,5 @@
-################ 
- run_analysis.R
-################ 
+# run_analysis.R
+ 
 
 This script obtains the data for the project and then performs the 5 steps requiered in the instructions:
 
